@@ -20,7 +20,7 @@
 
 <p align="center">
   <strong>Founder and Software Engineer at MuchiWorks</strong><br />
-  Building useful mobile products from early product decisions through testing
+  Building useful products from early decisions through testing
   and release.
 </p>
 
