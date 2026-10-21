@@ -6,12 +6,13 @@
     </td>
     <td>
       <strong>About MuchiWorks</strong><br /><br />
-      MuchiWorks is an independent software product studio focused on building
-      clear, dependable digital products. It brings product decisions,
+      MuchiWorks is an independent software product studio building clear,
+      dependable digital products around real needs. It brings product decisions,
       application development, quality, and release work together under one
       roof.<br /><br />
-      Its current product is <strong>MuchiLife</strong>, an Android application
-      designed to help people stay with the Focus boundaries they choose.
+      Its products are designed to support people's decisions, complete their task
+      clearly, and leave room for life beyond the interface. Its current product is
+      <strong>MuchiLife</strong>.
     </td>
   </tr>
 </table>
@@ -41,9 +42,10 @@
     </td>
     <td>
       <strong>MuchiLife</strong><br />
-      An Android product that lets people choose a Focus duration, select the
-      apps they want to keep closed, and stay with the boundary they set.
-      Currently in Google Play closed testing.
+      An Android product that helps people decide which apps can wait, choose a
+      Focus duration, and protect that time with Focus Shield. A good result is
+      completing the planned Focus and returning to what they chose. Currently in
+      Google Play closed testing.
     </td>
   </tr>
 </table>
