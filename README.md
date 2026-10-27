@@ -55,7 +55,7 @@
     <img
       src="assets/google-play-badge.png"
       alt="Get it on Google Play"
-      height="72"
+      height="120"
     />
   </a>
 </p>
