@@ -51,6 +51,16 @@
 </table>
 
 <p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.muchiworks.muchilife">
+    <img
+      src="assets/google-play-badge.png"
+      alt="Get it on Google Play"
+      height="72"
+    />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://muchiworks.com/products/muchilife">
     <img src="assets/muchilife-feature.png" alt="MuchiLife product artwork" width="760" />
   </a>
