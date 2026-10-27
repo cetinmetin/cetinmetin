@@ -44,8 +44,8 @@
       <strong>MuchiLife</strong><br />
       An Android product that helps people decide which apps can wait, choose a
       Focus duration, and protect that time with Focus Shield. A good result is
-      completing the planned Focus and returning to what they chose. Currently in
-      Google Play closed testing.
+      completing the planned Focus and returning to what they chose. Now available on
+      <a href="https://play.google.com/store/apps/details?id=com.muchiworks.muchilife">Google Play</a>.
     </td>
   </tr>
 </table>
@@ -88,7 +88,7 @@ implementation details or customer data.
 
 ## Current focus
 
-- Preparing MuchiLife through Google Play testing and production hardening
+- Supporting MuchiLife after its Google Play launch and continuing production hardening
 - Improving Android compatibility across OS versions and form factors
 - Strengthening account, session, and commerce reliability
 - Building MuchiWorks as a product studio for clear, useful software
